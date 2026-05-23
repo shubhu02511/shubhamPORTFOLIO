@@ -8,8 +8,6 @@
 
 # 📌 Premium Portfolio - Shubham Chaurasiya
 
-![Project preview](./public/img/preview.png)
-
 ## 📝 Overview
 
 My personal premium portfolio, designed using a sleek parallax visual layout inspired by natural gradients and atmospheric light.
