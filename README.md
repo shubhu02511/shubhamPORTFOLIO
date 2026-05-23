@@ -1,21 +1,20 @@
 <p align="center">
-  <a href="https://github.com/Raseraa0">
-   🏠 Go back to my GitHub home page 🏠 
+  <a href="https://github.com/shubhu02511">
+   🏠 Go back to Shubham's GitHub Home Page 🏠 
   </a>
 </p>
 
 ---
 
-# 📌 Portfolio
+# 📌 Premium Portfolio - Shubham Chaurasiya
 
 ![Project preview](./public/img/preview.png)
 
 ## 📝 Overview
 
-Portfolio deployed on `GitHub Pages`. The main idea behind this portfolio was to use the `parallax` effect. I decided to use an image from the game `Firewatch` and build my color palette around it. I created the different parallax layers myself.
+My personal premium portfolio, designed using a sleek parallax visual layout inspired by natural gradients and atmospheric light.
 
-This site is animated and responsive, but nothing beats visiting it to see for yourself.
-- 🚀 [Go to my portfolio](https://raseraa0.github.io)
+- 🚀 **Live Link:** **[https://shubhamport-taupe.vercel.app](https://shubhamport-taupe.vercel.app)**
 
 ## 🧰 Toolbox
 
@@ -27,7 +26,8 @@ This site is animated and responsive, but nothing beats visiting it to see for y
 
 ---
 <p align="center">
-  <a href="https://github.com/Raseraa0">
-   🏠 Go back to my GitHub home page 🏠 
+  <a href="https://github.com/shubhu02511">
+   🏠 Go back to Shubham's GitHub Home Page 🏠 
   </a>
 </p>
+
